@@ -1,0 +1,23 @@
+{
+  "name": "webboard",
+  "version": "1.0.0",
+  "description": "A collaborative webboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "react.js",
+    "node.js",
+    "socket.io",
+    "canvas",
+    "fabric.js"
+  ],
+  "author": "d_a_brous@yahoo.co.uk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "socket.io": "latest"
+  }
+}
