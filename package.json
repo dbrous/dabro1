@@ -1,10 +1,12 @@
+
 {
   "name": "webboard",
   "version": "1.0.0",
   "description": "A collaborative webboard",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node app.js",
+    "start": "node app.js"
   },
   "keywords": [
     "react.js",
